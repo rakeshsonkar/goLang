@@ -29,3 +29,8 @@ Gin provides an easy to use API for JSON, XML and HTML rendering.
 
 # Extendable
 Creating a new middleware is so easy, just check out the sample codes.
+
+# Run your project
+go run server.go
+
+
